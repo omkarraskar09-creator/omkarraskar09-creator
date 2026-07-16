@@ -13,12 +13,11 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Information Technology @ **Dr. J.J. Magdum College of Engineering**, Shivaji University, Kolhapur — CGPA 7.45, Expected 2028
+- 🎓 B.Tech in Information Technology @ **Dr. J.J. Magdum College of Engineering**, Shivaji University, Kolhapur
 - 💻 I build full-stack, database-driven web applications using **Java, PHP, JavaScript, and MySQL**
 - 🌱 Comfortable across the stack — from relational schema design to responsive front-end interfaces
 - 🎯 Currently seeking a **Software Engineering / Development Internship** to contribute to production-grade systems
 - 📍 Based in Satara, Maharashtra, India
-- 🌐 Languages: English, Hindi, Marathi
 
 ---
 
@@ -69,7 +68,6 @@ Responsive donor registration and search platform connecting donors with recipie
 - Deloitte Australia Cyber Job Simulation — Forage
 - Introduction to Cybersecurity Awareness — HP
 - Getting Started with Generative AI — IBM SkillsBuild
-- AICTE Internshala Internship Certificate
 
 ---
 
