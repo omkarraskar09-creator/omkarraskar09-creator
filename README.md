@@ -24,12 +24,10 @@ name: Omkar Raskar
 role: IT Undergraduate & Full-Stack Web Developer
 education: "B.Tech in Information Technology @ Dr. J.J. Magdum College of Engineering"
 university: "Shivaji University, Kolhapur"
-cgpa: 7.45
 graduation: 2028
 focus: "Java · PHP · JavaScript · MySQL · Responsive Web Design"
 looking_for: "Software Engineering / Development Internship 🎯"
-languages: [English, Hindi, Marathi]
-fun_fact: "Comfortable across the stack — from relational schema design to responsive front-end interfaces"
+
 ```
 
 ---
