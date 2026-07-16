@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20there,%20I'm%20Omkar%20Raskar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Undergraduate%20%7C%20Size=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20there,%20I'm%20Omkar%20Raskar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Undergraduate%20%7C%20" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2A9DF4&center=true&vCenter=true&width=650&lines=Building+full-stack%2C+database-driven+web+apps;Java+%7C+PHP+%7C+JavaScript+%7C+MySQL;Seeking+a+Software+Development+Internship+%F0%9F%9A%80" alt="Typing SVG" />
